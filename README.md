@@ -2,11 +2,7 @@
 # Welcome to the community of ocean x ( FREE)
 
 
-
-The reason I created this forum is for the integration of a free BP ocean in unreal engine 4 with very interesting features
-The idea is that together we can improve and integrate new functions do not hesitate to support oceanX
-
-
+OceanX was made with the intention that all people can realize their dreams I hope this helps them all since it is free for commercial use
 
 Gerstner Waves
 Dynamic planar reflection
